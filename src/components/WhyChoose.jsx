@@ -1,5 +1,5 @@
 
-import audioIcon from "../assets/headPhones.png";
+import audioIcon from "../assets/headphones.png";
 import mobileIcon from "../assets/phone.png";
 import globalIcon from "../assets/globe.png";
 import InterviewsIcon from "../assets/zap-fast.png";
