@@ -763,7 +763,7 @@ img{
  }
 
  .footer {
-  width: 600;
+  padding: 60px 20px;
   min-height: 180px;
 }
 .footer-content h2{
