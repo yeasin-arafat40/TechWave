@@ -7,7 +7,7 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer-wave">
-                <img src={footerWave} alt="" />
+                <img src={footerWave} alt="" className="footer-wave-svg"/>
             </div>
 
             <div className="footer-content">
